@@ -1,6 +1,6 @@
 import React from "react";
 // eslint-disable-next-line
-import Table from "./Table";
+import List from "./List";
 /*Add import statement here*/
 
 class App extends React.Component {
